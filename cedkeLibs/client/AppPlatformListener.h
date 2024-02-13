@@ -3,7 +3,7 @@
 class AppPlatformListener
 {
 public:
-	//void **vtable;	// 0
+	void **vtable;	// 0
 
 public:
 	AppPlatformListener(bool);
